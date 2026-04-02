@@ -53,10 +53,10 @@ export default function Hero() {
           <div className="absolute inset-0 bg-linear-to-b from-transparent via-transparent to-bg" />
         </div>
         <div className="flex flex-col items-center gap-8 px-6 pb-12 -mt-16 relative z-10">
-          <h1 className="text-4xl sm:text-5xl font-semibold tracking-tight text-foreground mb-4">
+          <h1 className="text-4xl sm:text-5xl font-regular tracking-tight text-foreground mb-4">
             {t("headline")}
           </h1>
-          <h2 className="text-xl sm:text-2xl font-semibold text-cream mb-8">
+          <h2 className="text-xl sm:text-2xl font-regular text-cream mb-8">
             {t("subtitle")}
           </h2>
           <button

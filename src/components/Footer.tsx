@@ -48,7 +48,6 @@ export default function Footer() {
         </div>
       </div>
 
-      {/* Blur overlay — bottom 20% of viewport */}
       {showMap && (
         <div
           className="fixed bottom-0 left-0 right-0 z-50 h-[40vh] backdrop-blur-sm bg-black/40 flex items-center justify-center"

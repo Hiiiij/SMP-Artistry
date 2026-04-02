@@ -13,9 +13,7 @@ export default async function About() {
           </h2>
 
           <div className="flex flex-col gap-3 text-base sm:text-lg md:text-xl text-cream/80 font-regular leading-relaxed max-w-2xl mx-auto mb-10">
-            <p>{t("p1")}</p>
-            <p>{t("p2")}</p>
-            <p>{t("p3")}</p>
+            <p>{t("p1")}&nbsp;{t("p2")}&nbsp;{t("p3")}</p>
           </div>
           <div className="flex flex-col items-center gap-10">
             {/* Photo */}
@@ -31,7 +29,7 @@ export default async function About() {
             </div>
 
             {/* Bio */}
-            <div className="space-y-4 text-text-muted text-body leading-relaxed text-center max-w-2xl">
+            <div className="space-y-4 text-text-muted text-body leading-relaxed max-w-2xl">
               <p>{t("bio1")}</p>
               <p>{t("bio2")}</p>
               <p>{t("bio3")}</p>
