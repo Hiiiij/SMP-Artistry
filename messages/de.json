@@ -1,0 +1,126 @@
+{
+  "Metadata": {
+    "title": "SMP Artistry — Kopfhautpigmentierung",
+    "description": "Professionelle Kopfhautpigmentierung. Ein zuverlässiger Ansatz zur Haarverlustverbesserung. Kostenlose Beratung & Angebot."
+  },
+  "Navbar": {
+    "services": "Leistungen",
+    "about": "Über mich",
+    "faq": "FAQ",
+    "gallery": "Galerie",
+    "contact": "Kontakt"
+  },
+  "Hero": {
+    "headline": "Pigmentierung der Kopfhaut",
+    "subtitle": "Erreiche deinen gewünschten Look mit SMP Artistry",
+    "cta": "Kostenlose Beratung & Angebot",
+    "heroAlt": "Ergebnis der Kopfhautpigmentierung"
+  },
+  "Services": {
+    "heading": "Eine bewährte Methode für natürlich wirkende Haarverdichtung",
+    "description": "Kopfhautpigmentierung ist eine nicht-invasive Lösung, bei der winzige Pigmentpunkte in die oberen Hautschichten der Kopfhaut tätowiert werden, um ein natürlich aussehendes Erscheinungsbild zu erzeugen.",
+    "subheading": "Es kann dir helfen bei",
+    "alopeciaTitle": "Alopezie",
+    "alopeciaDesc": "Alopezie verursacht fleckigen oder vollständigen Haarausfall aufgrund von Autoimmunerkrankungen. SMP stellt das Erscheinungsbild natürlicher Haarfollikel wieder her und sorgt für ein volles, gleichmäßiges Aussehen in den betroffenen Bereichen.",
+    "hairLossTitle": "Haarausfall",
+    "hairLossDesc": "Ob durch Genetik, Stress oder Alterung verursacht – Haarausfall beeinträchtigt das Selbstvertrauen. SMP repliziert das Aussehen eines kurz rasierten Kopfes oder fügt dünner werdenden Bereichen Dichte hinzu.",
+    "scarsCamouflageTitle": "Narbenkaschierung",
+    "scarsCamouflageDesc": "Narben von Operationen, Verletzungen oder Haartransplantationen können sichtbare Spuren auf der Kopfhaut hinterlassen. SMP vermischt Pigment in das Narbengewebe und macht es praktisch unsichtbar.",
+    "hairlineCreationTitle": "Haarlinienerstellung",
+    "hairlineCreationDesc": "Ein zurückweichender oder ungleichmäßiger Haaransatz verändert die Form deines Gesichts. SMP erstellt einen scharfen, natürlich aussehenden Haaransatz, der auf deine Gesichtsstruktur und deinen gewünschten Stil zugeschnitten ist.",
+    "densityImprovementTitle": "Dichteverbesserung",
+    "densityImprovementDesc": "Dünner werdendes Haar lässt die Kopfhaut darunter sichtbar werden. SMP füllt kahle Stellen mit Mikropunkten aus Pigment auf und erzeugt die Illusion von dickerem, vollerem Haar ohne Operation.",
+    "crownBaldnessTitle": "Tonsur-Kahlheit",
+    "crownBaldnessDesc": "Kahlheit am Oberkopf ist eines der häufigsten Muster von Haarausfall. SMP bedeckt die freiliegende Kopfhaut mit realistischen Follikeleindrücken und stellt ein gleichmäßiges Erscheinungsbild wieder her."
+  },
+  "About": {
+    "heading": "Kunden Immer im Focus",
+    "p1": "Mit der ersten Beratung wird der Eingriff über ca. drei Sitzungen von jeweils 2 bis 3  Stunden geplant.",
+    "p2": "Deine erste Sitzung legt das Fundament. Jede weitere Sitzung verbessert die Dichte durch Schichtung von Pigment und führt dich zu deinem idealen Ergebnis.",
+    "p3": "Ich freue mich darauf, dich in angenehmer Atmosphäre in meinem Studio im Herzen des Wedding begrüßen zu dürfen.✨",
+    "portraitAlt": "Ula — SMP Artistry Expertin",
+    "bio1": "Ich bin Ulla, Friseurmeisterin und zertifizierte Spezialistin für Mikropigmentierung. Mit über 15 Jahren Erfahrung in Salons in Warschau, London und Berlin bringe ich ein fortgeschrittenes Verständnis von Haarlinien, Dichte und natürlicher Balance in meine Mikropigmentierungsarbeit ein.",
+    "bio2": "Meine Spezialisierung liegt auf der Gestaltung nahtloser Haarlinien und natürlich wirkender Fülle. Durch einen vollständig individualisierten Ansatz für jeden Kunden erziele ich Ergebnisse, die nicht nur überzeugen, sondern auch dein Selbstvertrauen nachhaltig stärken.",
+    "bio3": "Während deiner kostenlosen Beratung helfe ich dir, realistische Ziele zu setzen und stelle sicher, dass du von deiner persönlichen Veränderung begeistert sein wirst."
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "cta": "Kostenlose Beratung & Angebot",
+    "q1": "Für wen ist die Lösung geeignet?",
+    "a1": "Kopfhautpigmentierung ist für jeden geeignet, der unter Haarausfall, dünner werdendem Haar, Alopezie oder Narben auf der Kopfhaut leidet. Es funktioniert für Männer und Frauen jeden Alters, die das Erscheinungsbild eines volleren Haarschopfes wiederherstellen möchten.",
+    "q2": "Wie lange hält der Effekt an?",
+    "a2": "SMP hält in der Regel 3-5 Jahre, bevor eine Auffrischung nötig sein kann. Die Langlebigkeit hängt von Faktoren wie Hauttyp, Sonnenexposition und Nachsorge ab. Bei richtiger Pflege behalten die Ergebnisse jahrelang ihr natürliches Erscheinungsbild.",
+    "q3": "Wie lange dauert der SMP-Eingriff?",
+    "a3": "Jede Sitzung dauert in der Regel 2-3 Stunden. Die meisten Kunden benötigen 2-3 Sitzungen im Abstand von etwa einer Woche, um die gewünschte Dichte und das natürliche Aussehen zu erreichen.",
+    "q4": "Ist SMP schmerzhaft?",
+    "a4": "Die meisten Kunden beschreiben das Gefühl als leichtes Unbehagen statt Schmerz. Der Eingriff verwendet feine Nadeln, die nur die oberen Hautschichten durchdringen. Betäubungscreme kann aufgetragen werden, um Unbehagen zu minimieren.",
+    "q5": "Wie lang ist die Erholungszeit nach SMP?",
+    "a5": "Die Erholung ist minimal. Du kannst nach jeder Sitzung 1-2 Tage leichte Rötungen erleben. Die meisten Kunden kehren sofort zu ihren normalen Aktivitäten zurück. Vollständige Nachsorgeanweisungen werden bereitgestellt.",
+    "q6": "Ist SMP für alle Hauttöne und Haartypen geeignet?",
+    "a6": "Ja. SMP ist vollständig anpassbar und funktioniert bei allen Hauttönen und Haartypen. Das Pigment wird sorgfältig auf deine natürliche Haarfarbe und deinen Hautton abgestimmt.",
+    "q7": "Wer sollte kein SMP bekommen?",
+    "a7": "SMP ist möglicherweise nicht geeignet für Personen mit aktiven Hauterkrankungen auf der Kopfhaut, Personen, die blutverdünnende Medikamente einnehmen, oder Personen mit bestimmten Autoimmunerkrankungen. Eine gründliche Beratung wird feststellen, ob SMP für dich geeignet ist."
+  },
+  "Gallery": {
+    "title": "Galerie",
+    "alt1": "SMP-Ergebnis — Kunde mit natürlich aussehendem Haaransatz",
+    "alt2": "SMP-Behandlung in Bearbeitung",
+    "alt3": "SMP-Studio"
+  },
+  "Footer": {
+    "location": "Standort",
+    "address": "Brüsseler Str. 11, 13353 Berlin",
+    "privacy": "Datenschutz",
+    "Impressum": "Impressum"
+  },
+  "Common": {
+    "back": "Zurück"
+  },
+  "Privacy": {
+    "metaTitle": "Datenschutzerklärung — SMP Artistry",
+    "title": "Datenschutzerklärung",
+    "s1Title": "1. Übersicht",
+    "s1Content": "Diese Website ist eine einfache Informationsseite für SMP Artistry Kopfhautpigmentierungsdienste. Wir verwenden keine Cookies, Tracking-Skripte, Analysetools oder Werbepixel.",
+    "s2Title": "2. Hosting",
+    "s2Content": "Diese Website wird von Vercel Inc., 440 N Baxter St, Covina, CA 91723, USA gehostet. Wenn du diese Seite besuchst, kann Vercel deine IP-Adresse, deinen Browsertyp und Zugriffszeiten in Serverprotokollen verarbeiten. Dies ist für die Bereitstellung der Website erforderlich (Art. 6 Abs. 1 lit. f DSGVO — berechtigtes Interesse). Datenschutzerklärung von Vercel:",
+    "s2Link": "vercel.com/legal/privacy-policy",
+    "s3Title": "3. WhatsApp-Kontakt",
+    "s3Content": "Diese Seite enthält einen Link zur Kontaktaufnahme über WhatsApp (betrieben von Meta Platforms Ireland Ltd). Wenn du auf diesen Link klickst, wirst du zu WhatsApp weitergeleitet und deine Daten (einschließlich IP-Adresse, Geräteinformationen und Nachrichteninhalt) werden von Meta gemäß deren Datenschutzerklärung verarbeitet. Dies ist eine freiwillige, vom Nutzer initiierte Aktion. Wir verwenden WhatsApp auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragsanbahnung). Datenschutzerklärung von Meta:",
+    "s3Link": "whatsapp.com/legal/privacy-policy",
+    "s4Title": "4. Instagram",
+    "s4Content": "Diese Seite verlinkt auf unser Instagram-Profil (betrieben von Meta Platforms Ireland Ltd). Ein Klick auf den Link leitet dich zu Instagram weiter, wo Meta deine Daten gemäß deren Datenschutzerklärung verarbeitet. Es werden keine Daten an Meta weitergegeben, bis du auf den Link klickst. Datenschutzerklärung von Meta:",
+    "s4Link": "privacycenter.instagram.com/policy",
+    "s5Title": "5. Google Fonts",
+    "s5Content": "Diese Website verwendet Google Fonts zur Darstellung der Schriftart Satoshi. Schriften werden von Google-Servern geladen, wodurch dein Browser eine Verbindung zu Google LLC herstellt und deine IP-Adresse übermittelt. Dies basiert auf Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einheitlicher Typografie). Datenschutzerklärung von Google:",
+    "s5Link": "policies.google.com/privacy",
+    "s6Title": "6. Deine Rechte",
+    "s6Intro": "Nach der DSGVO hast du das Recht auf:",
+    "s6r1": "Auskunft über deine personenbezogenen Daten (Art. 15)",
+    "s6r2": "Berichtigung unrichtiger Daten (Art. 16)",
+    "s6r3": "Löschung deiner Daten (Art. 17)",
+    "s6r4": "Einschränkung der Verarbeitung (Art. 18)",
+    "s6r5": "Datenübertragbarkeit (Art. 20)",
+    "s6r6": "Widerspruch gegen die Verarbeitung (Art. 21)",
+    "s6Contact": "Um eines dieser Rechte auszuüben, kontaktiere uns unter ulla.rocco007@gmail.com.",
+    "s7Title": "7. Beschwerderecht",
+    "s7Content": "Du hast das Recht, eine Beschwerde bei einer Datenschutzaufsichtsbehörde einzureichen. Die zuständige Behörde für Datenschutzbeschwerden in Deutschland findest du unter:",
+    "s7Link": "bfdi.bund.de",
+    "lastUpdated": "Zuletzt aktualisiert: April 2026"
+  },
+  "Impressum": {
+    "metaTitle": "Impressum — SMP Artistry",
+    "title": "Impressum",
+    "legalBasisTitle": "Angaben gemäß § 5 DDG",
+    "legalBasisContent": "Urszula Bors\nSMP Artistry — Kopfhautpigmentierung\nBrüsseler Straße 11\n13353 Berlin, Deutschland",
+    "contactTitle": "Kontakt",
+    "contactContent": "Telefon: 01706 955578\nE-Mail: ulla.rocco007@gmail.com",
+    "taxTitle": "Steuer-ID",
+    "taxContent": "Steuernummer: 14630129786",
+    "responsibleTitle": "Verantwortlich für den Inhalt (V.i.S.d.P.)",
+    "responsibleContent": "Urszula Bors\nBrüsseler Straße 11\n13353 Berlin, Deutschland",
+    "disputeTitle": "Streitschlichtung",
+    "disputeContent": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:",
+    "disputeLink": "ec.europa.eu/consumers/odr",
+    "disputeNote": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+  }
+}

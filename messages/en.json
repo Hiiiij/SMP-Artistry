@@ -1,0 +1,126 @@
+{
+  "Metadata": {
+    "title": "SMP Artistry — Scalp Micropigmentation",
+    "description": "Professional scalp micropigmentation services. A reliable approach to hair loss enhancement. Free consultation & quote."
+  },
+  "Navbar": {
+    "services": "Services",
+    "about": "About",
+    "faq": "FAQ",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "headline": "Scalp Micropigmentation",
+    "subtitle": "Achieve your desired look with SMP Artistry",
+    "cta": "Free Consultation & Quote",
+    "heroAlt": "Scalp micropigmentation result"
+  },
+  "Services": {
+    "heading": "A reliable approach to hair loss enhancement",
+    "description": "Scalp micropigmentation is a non-invasive solution that involves tattooing tiny dots of pigment to the upper layers of the scalp to create the natural looking appearance.",
+    "subheading": "It can help you with",
+    "alopeciaTitle": "Alopecia",
+    "alopeciaDesc": "Alopecia causes patchy or total hair loss due to autoimmune conditions. SMP recreates the appearance of natural hair follicles, restoring a full, even look across affected areas.",
+    "hairLossTitle": "Hair Loss",
+    "hairLossDesc": "Whether caused by genetics, stress, or aging, hair loss affects confidence. SMP replicates the look of a closely shaved head or adds density to thinning areas for a natural result.",
+    "scarsCamouflageTitle": "Scars Camouflage",
+    "scarsCamouflageDesc": "Scars from surgery, injury, or hair transplants can leave visible marks on the scalp. SMP blends pigment into scar tissue, making it virtually undetectable.",
+    "hairlineCreationTitle": "Hairline Creation",
+    "hairlineCreationDesc": "A receding or uneven hairline changes the shape of your face. SMP creates a sharp, natural-looking hairline tailored to your facial structure and desired style.",
+    "densityImprovementTitle": "Density Improvement",
+    "densityImprovementDesc": "Thinning hair reveals the scalp underneath. SMP fills in sparse areas with micro-dots of pigment, creating the illusion of thicker, fuller hair without surgery.",
+    "crownBaldnessTitle": "Crown Baldness",
+    "crownBaldnessDesc": "Balding at the crown is one of the most common patterns of hair loss. SMP covers the exposed scalp with realistic follicle impressions, restoring a uniform appearance."
+  },
+  "About": {
+    "heading": "Client-Centered Approach",
+    "p1": "After the initial consultation the procedure will be scheduled over approx three sessions for 2-3 hour long",
+    "p2": "Your first session establishes the foundation. Each additional session enhances density by layering pigment, guiding you toward your ideal result.",
+    "p3": "I look forward to welcoming you to my cozy studio in the heart of Wedding ✨",
+    "portraitAlt": "Ula — SMP Artistry practitioner",
+    "bio1": "I'm Ula, a certified micro-pigmentation technician with a background in hairstyling. With over 15 years of experience in salons across Warsaw, London, and Berlin, I bring an advanced understanding of hairlines, density, and natural balance to my micro-pigmentation work.",
+    "bio2": "I specialize in crafting seamless hairlines and natural-appearing density. With a fully customized approach for every client, I deliver refined results designed to enhance your confidence.",
+    "bio3": "During your free consultation, I'll help you set realistic goals and ensure you're amazed by the transformation."
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "cta": "Free Consultation & Quote",
+    "q1": "Who's the solution for?",
+    "a1": "Scalp micropigmentation is suitable for anyone experiencing hair loss, thinning hair, alopecia, or scarring on the scalp. It works for both men and women of all ages who want to restore the appearance of a fuller head of hair.",
+    "q2": "How long does the effect last?",
+    "a2": "SMP typically lasts 3-5 years before a touch-up may be needed. The longevity depends on factors like skin type, sun exposure, and aftercare. With proper care, the results maintain their natural appearance for years.",
+    "q3": "How long does the SMP procedure take?",
+    "a3": "Each session typically takes 2-3 hours. Most clients require 2-3 sessions spaced about a week apart to achieve the desired density and natural look.",
+    "q4": "Is SMP painful?",
+    "a4": "Most clients describe the sensation as mild discomfort rather than pain. The procedure uses fine needles that only penetrate the upper layers of the skin. Numbing cream can be applied to minimize any discomfort.",
+    "q5": "What is the recovery time after SMP?",
+    "a5": "Recovery is minimal. You may experience slight redness for 1-2 days after each session. Most clients return to their normal activities immediately. Full aftercare instructions are provided to ensure optimal healing.",
+    "q6": "Is SMP suitable for all skin tones and hair types?",
+    "a6": "Yes. SMP is fully customizable and works on all skin tones and hair types. The pigment is carefully matched to your natural hair color and skin tone for the most realistic result.",
+    "q7": "Who shouldn't get SMP?",
+    "a7": "SMP may not be suitable for individuals with active skin conditions on the scalp, those on blood-thinning medications, or people with certain autoimmune conditions. A thorough consultation will determine if SMP is right for you."
+  },
+  "Gallery": {
+    "title": "Gallery",
+    "alt1": "SMP result — client with natural-looking hairline",
+    "alt2": "SMP procedure in progress",
+    "alt3": "SMP studio"
+  },
+  "Footer": {
+    "location": "Location",
+    "address": "Brüsseler Str. 11, 13353 Berlin",
+    "privacy": "Privacy",
+    "Impressum": "Impressum"
+  },
+  "Common": {
+    "back": "Back"
+  },
+  "Privacy": {
+    "metaTitle": "Privacy Policy — SMP Artistry",
+    "title": "Privacy Policy",
+    "s1Title": "1. Overview",
+    "s1Content": "This website is a simple informational site for SMP Artistry scalp micropigmentation services. We do not use cookies, tracking scripts, analytics tools, or advertising pixels.",
+    "s2Title": "2. Hosting",
+    "s2Content": "This website is hosted by Vercel Inc., 440 N Baxter St, Covina, CA 91723, USA. When you visit this site, Vercel may process your IP address, browser type, and access times in server logs. This is necessary for delivering the website (Art. 6(1)(f) GDPR — legitimate interest). Vercel's privacy policy:",
+    "s2Link": "vercel.com/legal/privacy-policy",
+    "s3Title": "3. WhatsApp Contact",
+    "s3Content": "This site contains a link to contact us via WhatsApp (operated by Meta Platforms Ireland Ltd). When you click this link, you are redirected to WhatsApp, and your data (including IP address, device information, and message content) is processed by Meta in accordance with their privacy policy. This is a voluntary, user-initiated action. We use WhatsApp based on Art. 6(1)(b) GDPR (contract initiation). Meta's privacy policy:",
+    "s3Link": "whatsapp.com/legal/privacy-policy",
+    "s4Title": "4. Instagram",
+    "s4Content": "This site links to our Instagram profile (operated by Meta Platforms Ireland Ltd). Clicking the link redirects you to Instagram, where Meta processes your data according to their privacy policy. No data is shared with Meta until you click the link. Meta's privacy policy:",
+    "s4Link": "privacycenter.instagram.com/policy",
+    "s5Title": "5. Google Fonts",
+    "s5Content": "This website uses Google Fonts to display the Satoshi typeface. Fonts are loaded from Google servers, which means your browser connects to Google LLC and transmits your IP address. This is based on Art. 6(1)(f) GDPR (legitimate interest in consistent typography). Google's privacy policy:",
+    "s5Link": "policies.google.com/privacy",
+    "s6Title": "6. Your Rights",
+    "s6Intro": "Under GDPR, you have the right to:",
+    "s6r1": "Access your personal data (Art. 15)",
+    "s6r2": "Rectification of inaccurate data (Art. 16)",
+    "s6r3": "Erasure of your data (Art. 17)",
+    "s6r4": "Restriction of processing (Art. 18)",
+    "s6r5": "Data portability (Art. 20)",
+    "s6r6": "Object to processing (Art. 21)",
+    "s6Contact": "To exercise any of these rights, contact us at ulla.rocco007@gmail.com.",
+    "s7Title": "7. Right to Complain",
+    "s7Content": "You have the right to lodge a complaint with a data protection supervisory authority. The relevant authority for data protection complaints in Germany can be found at:",
+    "s7Link": "bfdi.bund.de",
+    "lastUpdated": "Last updated: April 2026"
+  },
+  "Impressum": {
+    "metaTitle": "Impressum — SMP Artistry",
+    "title": "Impressum",
+    "legalBasisTitle": "Angaben gemäß § 5 DDG",
+    "legalBasisContent": "Urszula Bors\nSMP Artistry — Scalp Micropigmentation\nBrüsseler Straße 11\n13353 Berlin, Germany",
+    "contactTitle": "Contact",
+    "contactContent": "Phone: 01706 955578\nEmail: ulla.rocco007@gmail.com",
+    "taxTitle": "Tax ID",
+    "taxContent": "Steuernummer: 14630129786",
+    "responsibleTitle": "Responsible for content (V.i.S.d.P.)",
+    "responsibleContent": "Urszula Bors\nBrüsseler Straße 11\n13353 Berlin, Germany",
+    "disputeTitle": "Dispute Resolution",
+    "disputeContent": "The European Commission provides a platform for online dispute resolution (OS):",
+    "disputeLink": "ec.europa.eu/consumers/odr",
+    "disputeNote": "We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board."
+  }
+}

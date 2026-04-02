@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --no-import-alias --use-pnpm)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --no-import-alias --use-pnpm --no-turbopack)",
+      "Bash(pnpm install:*)",
+      "Bash(node -e \":*)",
+      "Bash(pnpm build:*)"
+    ]
+  }
+}

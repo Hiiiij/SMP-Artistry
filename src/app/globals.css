@@ -1,0 +1,105 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0a0a0a;
+  --color-bg-card: #111111;
+  --color-gold: #c9a84c;
+  --color-gold-light: #e8d5a0;
+  --color-cream: hsl(42, 48%, 72%);
+  --color-purple: #5e4a21;
+  --color-purple-dim: #424007;
+  --color-text: #e5e5e5;
+  --color-text-muted: #d6d6d6;
+  --color-border: #2a2a2a;
+
+  --font-heading: "Playfair Display", serif;
+  --font-body: "Satoshi", sans-serif;
+
+  /* Type scale — fluid responsive using clamp(mobile, preferred, desktop) */
+
+  /* Body */
+  --font-size-body-sm: clamp(0.875rem, 0.8rem + 0.2vw, 1rem);
+  --font-size-body: clamp(1rem, 0.9rem + 0.3vw, 1.2rem);
+  --font-size-body-lg: clamp(1.1rem, 1rem + 0.4vw, 1.35rem);
+
+  /* Subheader (h3) */
+  --font-size-h3-sm: clamp(1.15rem, 1rem + 0.5vw, 1.5rem);
+  --font-size-h3: clamp(1.35rem, 1.1rem + 0.8vw, 1.875rem);
+  --font-size-h3-lg: clamp(1.5rem, 1.2rem + 1vw, 2.25rem);
+
+  /* Header (h2) */
+  --font-size-h2-sm: clamp(1.5rem, 1.2rem + 1vw, 2rem);
+  --font-size-h2: clamp(1.875rem, 1.4rem + 1.5vw, 3rem);
+  --font-size-h2-lg: clamp(2.25rem, 1.6rem + 2vw, 3.75rem);
+
+  /* Display (h1) */
+  --font-size-h1-sm: clamp(2rem, 1.5rem + 1.5vw, 3rem);
+  --font-size-h1: clamp(2.5rem, 1.8rem + 2.2vw, 4.5rem);
+  --font-size-h1-lg: clamp(3rem, 2rem + 3vw, 6rem);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+}
+
+/* Glow effects */
+.glow-gold {
+  box-shadow:
+    0 0 60px rgba(201, 168, 76, 0.15),
+    0 0 120px rgba(184, 159, 90, 0.05);
+}
+
+.glow-purple {
+  box-shadow: 0 0 40px rgba(204, 213, 126, 0.2);
+}
+
+.text-gradient-gold {
+  background: linear-gradient(180deg, #f0e6c8 0%, #c9a84c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-purple {
+  background: linear-gradient(180deg, #e6e9ad 0%, #e8dd7d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Card gradient border effect */
+.card-gradient {
+  background: linear-gradient(
+    180deg,
+    rgba(201, 168, 76, 0.08) 0%,
+    rgba(10, 10, 10, 0.95) 100%
+  );
+  border: 1px solid rgba(201, 168, 76, 0.15);
+}
+
+/* Section glow */
+.section-glow {
+  position: relative;
+}
+
+.section-glow::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60%;
+  height: 60%;
+  background: radial-gradient(
+    ellipse,
+    rgba(201, 168, 76, 0.06) 0%,
+    transparent 70%
+  );
+  pointer-events: none;
+}
