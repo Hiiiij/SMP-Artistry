@@ -11,10 +11,12 @@ export default function Home() {
     <>
       <main>
         <Hero />
-        <Services />
-        <About />
-        <Gallery />
-        <FAQ />
+        <div className="px-4 sm:px-12">
+          <Services />
+          <About />
+          <Gallery />
+          <FAQ />
+        </div>
       </main>
       <Footer />
     </>

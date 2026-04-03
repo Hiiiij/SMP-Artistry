@@ -6,13 +6,13 @@ export default function Gallery() {
   const t = useTranslations("Gallery");
 
   return (
-    <section id="gallery" className="pt-20 sm:pt-28 px-0 sm:px-12">
+    <section id="gallery" className="pt-20 sm:pt-28">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-3xl sm:text-4xl md:text-5xl font-regular text-center text-cream mb-12 sm:mb-24">
           {t("title")}
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 sm:gap-12">
           <div className="sm:rounded-2xl overflow-hidden border border-border">
             <Image
               src="/images/gallery-1.jpg"
@@ -25,7 +25,7 @@ export default function Gallery() {
           </div>
           <div className="sm:rounded-3xl overflow-hidden border border-border">
             <Image
-              src="/images/gallery-2.jpg"
+              src="/images/gallery-3.jpg"
               alt={t("alt2")}
               width={800}
               height={800}

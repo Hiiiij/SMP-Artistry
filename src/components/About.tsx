@@ -5,7 +5,7 @@ export default async function About() {
   const t = await getTranslations("About");
 
   return (
-    <section id="about" className="pb-20 sm:pb-28 px-12">
+    <section id="about" className="pb-20 sm:pb-28">
       <div className="max-w-6xl mx-auto">
         <div className="card-gradient rounded-2xl p-6 sm:p-10 md:p-12 section-glow">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-regular text-cream mb-10 text-center">
@@ -21,8 +21,9 @@ export default async function About() {
               <Image
                 src="/images/ula-portrait.jpg"
                 alt={t("portraitAlt")}
-                width={512}
-                height={512}
+                width={800}
+                height={800}
+                quality={85}
                 sizes="(max-width: 640px) 256px, (max-width: 768px) 320px, 384px"
                 className="object-cover w-full h-full"
               />

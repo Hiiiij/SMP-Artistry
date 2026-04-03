@@ -18,7 +18,7 @@ export default function Services() {
   const t = useTranslations("Services");
 
   return (
-    <section id="services" className="py-20 sm:py-28 px-12">
+    <section id="services" className="py-20 sm:py-28">
       <div className="max-w-6xl mx-auto">
         <div className="relative card-gradient rounded-2xl p-8 sm:p-12 md:p-16 text-center section-glow overflow-hidden">
           {/* Main content — blurs when overlay is open */}
@@ -43,7 +43,7 @@ export default function Services() {
                 <button
                   key={service.titleKey}
                   onClick={() => setOpenIndex(index)}
-                  className="group text-left border border-border hover:border-gold/40 rounded-xl p-5 transition-colors duration-300 cursor-pointer w-full"
+                  className="group text-left border border-white/10 hover:border-gold/40 rounded-xl p-5 transition-all duration-300 cursor-pointer w-full backdrop-blur-md bg-gradient-to-br from-white/[0.06] to-white/[0.02]"
                 >
                   <div className="flex items-center justify-between">
                     <span className="text-body text-text-muted group-hover:text-white transition-colors">

@@ -12,7 +12,7 @@ export default function Hero() {
       {/* Desktop: image with overlaid text */}
       <div className="relative hidden md:block w-full min-h-screen">
         <Image
-          src="/images/hero-bg.jpg"
+          src="/images/John-2.jpg"
           alt={t("heroAlt")}
           fill
           className="object-cover object-top"
@@ -39,24 +39,22 @@ export default function Hero() {
         </div>
       </div>
 
-      {/* Tablet & mobile: image on top, text below */}
-      <div className="md:hidden">
-        <div className="relative w-full aspect-[3/4] sm:aspect-[4/3]">
-          <Image
-            src="/images/hero-bg.jpg"
-            alt={t("heroAlt")}
-            fill
-            className="object-cover object-top"
-            sizes="100vw"
-            priority
-          />
-          <div className="absolute inset-0 bg-linear-to-b from-transparent via-transparent to-bg" />
-        </div>
-        <div className="flex flex-col items-center gap-8 px-6 pb-12 -mt-16 relative z-10">
-          <h1 className="text-4xl sm:text-5xl font-regular tracking-tight text-foreground mb-4">
+      {/* Tablet & mobile: image with overlaid text */}
+      <div className="md:hidden relative w-full h-[55svh] sm:h-[70svh]">
+        <Image
+          src="/images/John-2.jpg"
+          alt={t("heroAlt")}
+          fill
+          className="object-cover object-[90%_30%]"
+          sizes="100vw"
+          priority
+        />
+        <div className="absolute inset-0 bg-linear-to-b from-bg/30 via-transparent to-bg" />
+        <div className="absolute inset-0 flex flex-col items-center justify-end px-6 z-10">
+          <h1 className="text-4xl sm:text-5xl font-regular tracking-tight text-foreground mb-4 text-center">
             {t("headline")}
           </h1>
-          <h2 className="text-xl sm:text-2xl font-regular text-cream mb-8">
+          <h2 className="text-xl sm:text-2xl font-regular text-cream mb-8 text-center">
             {t("subtitle")}
           </h2>
           <button
