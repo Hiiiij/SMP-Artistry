@@ -40,7 +40,7 @@ export default function Navbar() {
           </a>
 
           {/* Desktop nav */}
-          <div className="hidden md:flex items-center gap-1">
+          <div className="hidden lg:flex items-center gap-1">
             <div className="flex items-center bg-bg-card/60 border border-border rounded-full px-2 py-1">
               {navLinks.map((link) => (
                 <a
@@ -59,7 +59,7 @@ export default function Navbar() {
           </div>
 
           {/* Contact + Language Switcher */}
-          <div className="hidden md:flex items-center gap-3">
+          <div className="hidden lg:flex items-center gap-3">
             <LanguageSwitcher />
             <button
               onClick={handleContact}
@@ -72,7 +72,7 @@ export default function Navbar() {
           {/* Mobile menu button */}
           <button
             onClick={() => setMenuOpen(!menuOpen)}
-            className="md:hidden text-white p-2"
+            className="lg:hidden text-white p-2"
             aria-label="Toggle menu"
           >
             <svg
@@ -103,7 +103,7 @@ export default function Navbar() {
 
       {/* Mobile menu */}
       {menuOpen && (
-        <div className="md:hidden bg-bg-card border-t border-border">
+        <div className="lg:hidden bg-bg-card border-t border-border">
           <div className="px-4 py-4 space-y-2">
             {navLinks.map((link) => (
               <a
