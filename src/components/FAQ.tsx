@@ -52,7 +52,7 @@ export default function FAQ() {
           </div>
           <button
             onClick={handleContact}
-            className="inline-block border border-text-muted/40 hover:border-gold/60 text-white text-sm tracking-[0.2em] uppercase px-8 py-4 transition-all duration-300 hover:bg-gold/20"
+            className="inline-block border border-text-muted/40 hover:border-gold/60 text-white text-sm lg:text-base tracking-wider uppercase px-4 py-4 lg:px-6 lg:py-5 transition-all duration-300 hover:bg-gold/20"
           >
             {t("cta")}
           </button>

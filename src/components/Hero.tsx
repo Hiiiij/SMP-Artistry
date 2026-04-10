@@ -31,7 +31,7 @@ export default function Hero() {
             </h2>
             <button
               onClick={handleContact}
-              className="flex border border-text-muted/40 hover:border-gold/60 text-white text-md uppercase px-4 py-4 transition-all duration-300 hover:bg-gold/20"
+              className="flex border border-text-muted/40 hover:border-gold/60 text-white text-md tracking-wider uppercase px-4 py-4 transition-all duration-300 hover:bg-gold/20"
             >
               {t("cta")}
             </button>
@@ -53,15 +53,15 @@ export default function Hero() {
         <div className="absolute inset-0 bg-linear-to-b from-bg/30 via-transparent via-30% to-bg" />
         <div className="absolute inset-0 bg-linear-to-b from-transparent via-black/40 via-60% to-black/70" />
         <div className="absolute inset-0 flex flex-col items-center justify-end pb-24 px-6 z-10">
-          <h1 className="text-4xl sm:text-5xl font-regular tracking-tight text-foreground text-center mb-3">
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-regular tracking-tight text-foreground text-center mb-3">
             {t("headline")}
           </h1>
-          <h2 className="text-xl sm:text-2xl font-regular text-cream text-center mb-6">
+          <h2 className="text-xl sm:text-2xl lg:text-3xl font-regular text-cream text-center mb-6">
             {t("subtitle")}
           </h2>
           <button
             onClick={handleContact}
-            className="inline-block border border-text-muted/40 hover:border-gold/60 text-white text-sm uppercase px-4 py-4 text-center transition-all duration-300 hover:bg-gold/20"
+            className="inline-block border border-text-muted/40 hover:border-gold/60 text-white text-sm lg:text-base tracking-wider uppercase px-4 py-4 lg:px-6 lg:py-5 text-center transition-all duration-300 hover:bg-gold/20"
           >
             {t("cta")}
           </button>
