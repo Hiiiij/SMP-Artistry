@@ -36,7 +36,8 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <a href={`/${locale}`} className="shrink-0">
-            <Logo />
+            <span className="md:hidden"><Logo small /></span>
+            <span className="hidden md:block"><Logo /></span>
           </a>
 
           {/* Desktop nav */}
