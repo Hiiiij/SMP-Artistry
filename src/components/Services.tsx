@@ -43,7 +43,7 @@ export default function Services() {
                 <button
                   key={service.titleKey}
                   onClick={() => setOpenIndex(index)}
-                  className="group text-left border border-white/10 hover:border-gold/40 rounded-xl p-5 transition-all duration-300 cursor-pointer w-full backdrop-blur-md bg-gradient-to-br from-white/[0.06] to-white/[0.02]"
+                  className="group text-left border border-white/10 hover:border-gold/40 rounded-xl p-5 transition-all duration-300 cursor-pointer w-full bg-gradient-to-br from-white/[0.06] to-white/[0.02]"
                 >
                   <div className="flex items-center justify-between">
                     <span className="text-body text-text-muted group-hover:text-white transition-colors">
