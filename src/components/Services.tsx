@@ -57,17 +57,9 @@ export default function Services() {
           </div>
 
           <div
-            className={`absolute inset-0 pointer-events-none transition-opacity duration-400 ease-out ${
+            className={`absolute inset-0 pointer-events-none transition-opacity duration-400 ease-out backdrop-blur-sm bg-black/40 ${
               isOpen ? "opacity-100" : "opacity-0"
             }`}
-            style={{
-              backdropFilter: "blur(5px)",
-              WebkitBackdropFilter: "blur(5px)",
-              maskImage:
-                "radial-gradient(ellipse 80% 50% at center, black 0%, black 40%, transparent 70%)",
-              WebkitMaskImage:
-                "radial-gradient(ellipse 80% 50% at center, black 0%, black 40%, transparent 70%)",
-            }}
           />
 
           {/* Overlay — dark gradient + click-to-close, no blur */}

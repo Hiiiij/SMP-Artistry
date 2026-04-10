@@ -116,9 +116,12 @@ body {
     hsla(50.12, 57.49%, 8%, 0.756) 93.9%,
     hsla(50.4, 60.98%, 8.04%, 0.75) 100%
   ); */
-  background: rgba(118, 118, 123, 0.129);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
+  background: linear-gradient(
+    to bottom,
+    rgba(118, 118, 123, 0.15) 0%,
+    rgba(118, 118, 123, 0.08) 50%,
+    rgba(118, 118, 123, 0.12) 100%
+  );
   border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
