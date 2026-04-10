@@ -24,7 +24,7 @@ export default function Services() {
           {/* Main content — blurs when overlay is open */}
           <div
             className={`transition-opacity duration-400 ease-out ${
-              isOpen ? "opacity-30" : ""
+              isOpen ? "opacity-50" : ""
             }`}
           >
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-regular text-cream mb-8 sm:mb-12">
@@ -57,7 +57,7 @@ export default function Services() {
           </div>
 
           <div
-            className={`absolute inset-0 pointer-events-none transition-opacity duration-400 ease-out backdrop-blur-sm bg-black/40 ${
+            className={`absolute inset-0 pointer-events-none transition-opacity duration-400 ease-out backdrop-blur-sm bg-black/20 ${
               isOpen ? "opacity-100" : "opacity-0"
             }`}
           />
