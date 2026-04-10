@@ -46,12 +46,13 @@ export default function Hero() {
           src="/images/gallery-2.jpg"
           alt={t("heroAlt")}
           fill
-          className="object-cover object-[30%_15%]"
+          className="object-cover object-[30%_10%]"
           sizes="100vw"
           priority
         />
-        <div className="absolute inset-0 bg-linear-to-b from-bg/30 via-transparent via-50% to-bg" />
-        <div className="absolute inset-0 flex flex-col items-center justify-end pb-10 px-6 z-10">
+        <div className="absolute inset-0 bg-linear-to-b from-bg/30 via-transparent via-30% to-bg" />
+        <div className="absolute inset-0 bg-linear-to-b from-transparent via-black/40 via-60% to-black/70" />
+        <div className="absolute inset-0 flex flex-col items-center justify-end pb-24 px-6 z-10">
           <h1 className="text-4xl sm:text-5xl font-regular tracking-tight text-foreground text-center mb-3">
             {t("headline")}
           </h1>
