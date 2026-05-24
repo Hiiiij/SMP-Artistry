@@ -1,5 +1,6 @@
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
+import { localizedPath } from "@/lib/site";
 import type { Metadata } from "next";
 
 export async function generateMetadata({
@@ -9,7 +10,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "Privacy" });
-  return { title: t("metaTitle") };
+  return { title: t("metaTitle"), alternates: { canonical: localizedPath(locale, "/privacy") } };
 }
 
 export default async function Privacy() {
